@@ -17,3 +17,5 @@ def get_computer_choices(dice_list):
 ```
 {% endspolier %}
 
+{% next %}
+
