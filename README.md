@@ -2,7 +2,7 @@
 
 The computer has already rolled once. After the first roll, let's say
 ```python
-computer_roll = [4,2,1,5,2]
+computer_roll = [4,2,1,5,3,2]
 ```
 {% next %}
 
